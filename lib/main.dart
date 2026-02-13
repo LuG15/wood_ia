@@ -51,7 +51,7 @@ class _HomeScreenState extends State<HomeScreen> {
   bool _chatCarregando = false;
 
   // SUA API KEY (Já configurada)
-  static const String apiKey = 'AIzaSyAkBq5woUehA4yB_qM9lhSHmPajaKv1St8';
+  static const String apiKey = 'AIzaSyDSDVMwlpCHIs2HGjOTPEUtSd1gOKg1d-8';
 
   late final GenerativeModel _model;
   late final GenerativeModel _chatModel;
